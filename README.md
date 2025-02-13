@@ -30,7 +30,7 @@ Follow these steps to set up and run the project:
 ```bash
 git clone https://github.com/your-username/Human_detection_in_certain_area.git
 cd Human_detection_in_certain_area
-
+'''
 2. Install Dependencies
 Make sure you have Python installed. Then, install the required Python libraries:
 
