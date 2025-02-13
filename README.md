@@ -60,14 +60,14 @@ The processed video is saved as output.avi in the project directory.
 
 3. Exit the Program
 Press the q key to stop the program and close the video stream.
-
+```bash
 File Structure
 .
 ├── your_script_name.py       # Main Python script
 ├── requirements.txt          # List of dependencies
 ├── README.md                 # Project documentation
 └── output.avi                # Processed video (generated after running the script)
-
+```
 Customization
 1. Change the Boundary Box
 You can modify the boundary box by changing the BOUNDARY_BOX variable in the script:
