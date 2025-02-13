@@ -27,10 +27,10 @@ This project uses the YOLOv5 object detection model to detect humans in a video 
 Follow these steps to set up and run the project:
 
 ### 1. Clone the Repository
-```bash
+
 git clone https://github.com/your-username/Human_detection_in_certain_area.git
 cd Human_detection_in_certain_area
-'''
+
 2. Install Dependencies
 Make sure you have Python installed. Then, install the required Python libraries:
 
